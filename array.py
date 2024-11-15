@@ -1,6 +1,6 @@
 arr = list()
 n = int(input("Enter number of elements:"))
-print("Enter elements:")
+print("Elements:")
 i = 0
 while (i < n):
     tmp = int(input(""))

@@ -1,5 +1,5 @@
 arr = list()
-n = int(input("Enter number of elements:"))
+n = int(input("Number of elements:"))
 print("Enter elements:")
 i = 0
 while (i < n):
